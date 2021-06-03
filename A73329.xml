@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lancashire wonder, to warn all sinners to repentance Being a full and true account of Mr. Jeremiah Carter, a pious divine of the Church, who was taken with sleepiness on a road going over a high mountain, fell in a deep trance, and lay for the space of four days, from the 8th of December till the 12th, in this present year: he not coming home as expected, how two of his parishioners went to seek him, and found him lying on the mountain. How they brought him home, laid him on the bed, where he lay for the space of six hours. How his spirit came to him, and he hath declared the wonderful things that he has heard in the other world, and what heavy judgements hang over our heads for the crying sins of the day and time, warning all to repent, and cry to God for mercy, or else your sins will speedily find you out. So that here are wonderful things, never publish'd to the world before. Licens'd according to order.</title>
+         </titleStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73329</idno><idno type="EEBO-CITATION">99896304</idno>
+  <idno type="VID">154088</idno>
+  <idno type="EEBO-PROQUEST">2240917792</idno>
+  
+            <idno type="STC">STC 24478</idno>
+            <idno type="STC">Wing T3599A</idno>
+            <idno type="STC">ESTC S103036</idno>
+            <idno type="PROQUEST">99896304</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896304e"/>
+            <note>(EEBO-TCP ; phase 2, no. A73329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lancashire wonder, to warn all sinners to repentance Being a full and true account of Mr. Jeremiah Carter, a pious divine of the Church, who was taken with sleepiness on a road going over a high mountain, fell in a deep trance, and lay for the space of four days, from the 8th of December till the 12th, in this present year: he not coming home as expected, how two of his parishioners went to seek him, and found him lying on the mountain. How they brought him home, laid him on the bed, where he lay for the space of six hours. How his spirit came to him, and he hath declared the wonderful things that he has heard in the other world, and what heavy judgements hang over our heads for the crying sins of the day and time, warning all to repent, and cry to God for mercy, or else your sins will speedily find you out. So that here are wonderful things, never publish'd to the world before. Licens'd according to order.</title>
+                  <author>Tyson, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Tyson, Nicholas Pitt, William Flemming, John Stevenson, John Smith, John Brown.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="topical_term">Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:154088:1"/>
+            <p>THE Lancashire WONDER, <hi>To warn all Sinners to Repentance.</hi>
+            </p>
+            <p>Being a full and true Account of Mr. <hi>Je<g ref="char:EOLhyphen"/>remiah Carter,</hi> a pious Divine of the Church, who was taken with Sleepi<g ref="char:EOLhyphen"/>ness on a Road <hi>going</hi> over a high Moun<g ref="char:EOLhyphen"/>tain, fell in a deep France, and lay for the Space of four Days from the 8th of <hi>December</hi> till the 12th, in this present Year: <hi>He</hi> not coming home as expect<g ref="char:EOLhyphen"/>ed, how two of his Parishioners went to seek him, and found him lying on the mountain. <hi>How</hi> they brought him home, laid him on the Bed, where he lay for the Space of six hours. <hi>How</hi> his Spirit came to him, and he hath declar<g ref="char:EOLhyphen"/>ed the wonderful Things that he has heard in the other World, and what heavy Judgments hang over our heads for the crying Sins of the Day and Time, Warning all to repent, and cry to God for Mercy, or else your Sins will speedily find you out. So that here are wonderful Things, never publish'd to the World before.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licens'd according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="account">
+            <pb facs="tcp:154088:2"/>
+            <pb facs="tcp:154088:2"/>
+            <pb n="2" facs="tcp:154088:3"/>
+            <head>THE <hi>Lancashire</hi> WONDER, <hi>&amp;c.</hi>
+            </head>
+            <p>IN <hi>Sceathwaite,</hi> in the Parish of <hi>Kirby Arleth,</hi> and County of <hi>Lancaster,</hi> liv'd the Rev. Mr. <hi>Carter,</hi> and in the Diocese of <hi>York,</hi> who hav<g ref="char:EOLhyphen"/>ing Occasion to go to a Market-Town, in the same County of <hi>Lancaster,</hi> and the Way being over a high Mountain call'd <hi>Warnefcan,</hi> and as he was riding along found himself very heavi<g ref="char:EOLhyphen"/>some; so alighting from his Horse and falling on his Knees to Prayer, when on a sudden he found his Spirit fail, and saying, <hi>Lord, what wouldst thou have me to do?</hi> so a deep Sleep seiz'd on him for the Space of four Days and Nights, from the 8th of <hi>December</hi> to the 12th, in this present Year. So that he not coming home, as expected, two of his Parishoners going the same Way, found him lying, so went and call'd Mr. <hi>Carter,</hi> he making no Answer, they alighted from their Horses, took him by the Hand, and found that he was very warm, and of a fine Colour, but could not perceive that he drew any Breath, although they used their best Endeavours to get him home, and laid him in a Bed, where he lay for the Space of six Hours, all the Neighbours flocking in to see him, his Wife and Children weeping, and
+<pb n="3" facs="tcp:154088:3"/> his Neighbours and Parishioners lamenting the Loss of so pious a Divine; but as they were thus lamenting, his Spirit return'd, and he lifted up his Eyes and Hands towards Heaven, and said, <hi>O Eternal God, I admire the Wonders of thy Love towards me, in making me an Eye-witness of what I have preach'd and taught among these my Brethren, who are come to visit me So I am com<g ref="char:EOLhyphen"/>m<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nded to publish to you and the World, what I have heard and seen in the other World, where my Spirit has been conversing, whilst this poor Cottage of Clay lay slumbering here; so that when I was upon the aforesaid Place, being the</hi> 8th <hi>of this Instant, there appeared to me one in bright Raiment, with a glori<g ref="char:EOLhyphen"/>rious Crown on his Head, whose Countenance shone more glorious than my Tongue or Pen can express; so that this poor Carcase began to shake and tremble. And he said unto me, Fear not, for I am come to discover many strange and wonderful Things unto thee, that thou may'st cry aloud, and declare to the sinful Age their Sins and Transgressions. And be<g ref="char:EOLhyphen"/>hold the Angel of the Lord came and took me under the Shadow of his Wings and mounted me up to the Heaven of Heavens, where I saw the Ancient of Days sitting on his glorious Throne, and the Lord Jesus sitting at his Right Hand. No Tongue can express the Happiness of the Saints above. There I beheld Thousands of glorious Angels, and Souls departed, in white Robes, wearing everlasting Crowns of Glory I saw so much Splendour, and heard such heavenly Songs of divers Praises and Hallelujahs to the Saviour of the World, saying, Glory, Honour and Blessing, Majesty Dominion and Power be to him that sitteth on the Throne, and to the Lord Jesus, who hath redeemed us with his precious Blood, and made us Kings and Priests, to
+<pb n="4" facs="tcp:154088:4"/> Him be Glory for ever and ever.</hi> Amen. <hi>Behold he cometh in the Cloud, and every Eye shall see him, and they that now provoke him by their wicked Oaths and Lyings, shall bewail because of him. So I had a Sight of the glorious Condition of the Saints in Glory, which neither Yongue nor Pen of Mortal can express. The Angel then said,</hi> Go with me, and I will shew thee the miserable Condition of all those that forget God and Christ, and scoff at Religion, and the Worship of God, so I beheld a most horrible Place. a bottomless Pit, or a Lake of Fire and Brimstone. out of which came such sulphurous Smoak and Stink, that I was ready to faint; but the Angel com<g ref="char:EOLhyphen"/>forting me, I began to look farther, where I beheld a Sea overflowing with a Flood of Fire and Brimstone, where I heard the most dismal Cries, Howlings and Yellings, which were fit to melt a Heart of Flint; there I beheld many Thousands of wretched Souls swimming in the Flames, and the Devil tormenting them with all manner of Cruelties; and I beheld the cur<g ref="char:EOLhyphen"/>sed Crew of Swearers and Blasphemers, and such as make a Jest of Perjury, and the most sacred Things, Scoffers at Religion, and De<g ref="char:EOLhyphen"/>spisers of God's Word; and here I saw those that were condemn'd for Pride, which are the first Rank: Poor, silly, feeble, nasty Creatures, the Devils are insulting over them, and saying, <hi>These are our Gallants,</hi> or such like Expressions, whil<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Flame fl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w over them after another. A second Sort which followed them, were those that forget God, and scoff at Religion and the Worship of God, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are torn to Pieces in the Flames. A third <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> those that never trou<g ref="char:EOLhyphen"/>ble themselves with Religion, but eat and drink
+<pb n="5" facs="tcp:154088:4"/> like Beasts; where I saw the Gluttons and the Drunkards together, the one having the loath<g ref="char:EOLhyphen"/>some Smell of that fiery Sulphur to feed on, and the other great Flashes of Fire go down his Throat, and the Devils saying, <hi>Take this, wilt thou pledge me good Fellow, and Ill be thy Servant. Know that thou starvedst thy Wife and Children, sold thy Lands for Liquors, so here<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a hot Pot for thee.</hi> Here were Gallants that took Delight in no<g ref="char:EOLhyphen"/>thing but the Pleasures of the World, as Rant<g ref="char:EOLhyphen"/>ing, Roaring, Singing, Whoring, Carding and Dicing, whose Souls were as horribly torment<g ref="char:EOLhyphen"/>ed with all Sorts of Miseries, as they took De<g ref="char:EOLhyphen"/>light in all Sorts of Pastimes. There were the Envious and Discontented, howling like mad Dogs, there I saw the miserable and greedy Mi<g ref="char:EOLhyphen"/>sers, and Oppressors of the poor distressed Crea<g ref="char:EOLhyphen"/>tures, when desired for the Lord's sake. Now, said the Devils, <hi>We'll tread you under our Feet in these burning Flames, as you could let the Poor starve at your Doors, and would not hear their Cry, but now you shall feel the Flames.</hi> Also I saw the cur<g ref="char:EOLhyphen"/>sed Swearer, who could scarce speak without calling for Damnation on his Soul, and the De<g ref="char:EOLhyphen"/>vil to fetch him: <hi>Now you have your Damnation for ever, I have both you now and your Brother Li<g ref="char:EOLhyphen"/>ars, for you commonly go Hand in Hand, and all covetous Persons come into this fiery Lake with you, for here is your Abode for ever and ever: Yet fur<g ref="char:EOLhyphen"/>ther, you may broil and fry in the Flames of God<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Divine Wrath to all Eternity, that is the Date; and further to augment your Miseries, it will be worse with you in a very little Time, at the End of the World, when Soul and Body are to suffer together.</hi> So my blessed Angel told me I must go back
+<pb n="6" facs="tcp:154088:5"/> and declare unto the World what I had seen and heard, that <hi>England</hi> might shun the De<g ref="char:EOLhyphen"/>struction coming over its Head; there are some <hi>Noahs</hi> and <hi>Daniels,</hi> some that wrestle hard with Almighty God to save us. O ye Inhabitants of this lower Word, the Eternal God that made the Heavens and the Earth will have Mercy on you if you repent. The Sins of <hi>Sodom</hi> cry'd not out louder in the Ears of the Almighty than the Sins of this present Age, although he warns you Time after Time: You see strange Appearances in the Air, Wars and Rumours of Wars; the great Monarchs of the Earth, out of their Pride do rise up one against ano<g ref="char:EOLhyphen"/>ther, and break whole Armies to Pieces. There will be great Bloodshed this Year, with Nation against Nation, and Kingdom against King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>So that the Lord fulfils the Holy Scriptures daily amongst us; so let us <hi>Watch</hi> and <hi>Pray,</hi> for blessed are they that shall be found in Rea<g ref="char:EOLhyphen"/>diness at the Coming of the Lord: For he will quickly come to take Vengeance of all his Enemies, and all those that do provoke him. O <hi>England,</hi> prepare to meet thy God, and consider what God hath done for thee, Time after Time: how the Enemies of the Church of Christ have plotted to destroy it. So let us turn to our God, and forsake all our Abomi<g ref="char:EOLhyphen"/>nations, and he will still defend us: if not, he may justly let in a proud <hi>Assyrian,</hi> and make him a Rod to humble the Proud. For there are great Things upon the Wheel of Di<g ref="char:EOLhyphen"/>vine Providence. Many are now contriving
+<pb n="7" facs="tcp:154088:5"/> and hoisting up their Sails to pull down the Church of Christ, but all their Craft will be in vain, for he will defend his Church to the End, which is nigh at Hand. There will be great Damage by Hail, Thunder and Lightning in several Places this Year, Raging Fevers, Small-Pox, and other Distempers, which will come upon many unawares, and tumble their Bodies to the Grave, so that there will be a Sweep in this Land, that the Inhabitants may learn Righteousness.</p>
+            <p>Thus having declared his Message, he turns towards his Friends and those in the Room with him, and said, I warn you all, in my Lord's Name, to observe what I have said, and let the same be published, for I know this Night I shall enjoy these Heavenly Felicities I have declar'd. So calling for his Wife and Children to him, he said, The Blessing of the Lord be on you all: This Night I must leave you, though it is your Loss to part with me, it is my Gain. So do not cry nor lament, but call to mind the many good Exhortations I have given you, and fear and serve the Lord Jesus Christ, and where he and I are, there will you also be, and all those that love and follow him: In your Father's House is Room enough for all those that long for his Appearance. So taking his loving Wife by the Hand, and sa<g ref="char:EOLhyphen"/>luting her and his dear Children he lifted up his Eyes towards Heaven, earnestly imploring the Divine Majesty to send down his Blessing upon them. So having done, he charged his Children to remember their Creator in the Days
+<pb n="8" facs="tcp:154088:6"/> of their Youth, and to love and obey their Mother. After this, taking Leave of the Spec<g ref="char:EOLhyphen"/>tators, he fell into a sweet Sleep, wherein he continu'd till about Twelve o'Clock at Night, and then his Spirit entered that glorious Place he had given us an Account of. So we his Friends and Parishioners do lament the Loss of so pious a Divine, and hereunto have subscribed our Names.</p>
+            <closer>
+               <signed>John Tyson, Nicholas Pitt, William Flemming John Stevenson, John Smith, John Brown.</signed>
+            </closer>
+            <trailer>FINIS. <figure>
+                  <figDesc>coffin</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:154088:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
